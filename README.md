@@ -1,0 +1,1 @@
+# XRay_Disease_Prediction_With_ResNet_FastAI_-_CNN
